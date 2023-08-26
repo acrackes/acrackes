@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **acrackes/acrackes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Some stats about Raghav
+### Some stats about AcrackSoft
 <img alt="AcrackSoft's github stats" src="https://github-readme-stats.vercel.app/api?username=acrackes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img alt="AcrackSoft's Languajes stats" src=https://github-readme-stats.vercel.app/api/top-langs/?username=acrackes&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [AcrackSoft](https://github.com/acrackes)
