@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Some stats about Raghav
+<img alt="AcrackSoft's github stats" src="https://github-readme-stats.vercel.app/api?username=acrackes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
+⭐️ From [AcrackSoft](https://github.com/acrackes)
