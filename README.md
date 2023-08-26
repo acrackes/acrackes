@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ### Some stats about AcrackSoft
 <img alt="AcrackSoft's github stats" src="https://github-readme-stats.vercel.app/api?username=acrackes&include_all_commits=true&show_icons=true&theme=transparent" >
 
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 [![Connect on Website](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://www.acracksoft.es)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/antonio-alonso-hernandez/)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/acracksoft)
-
+-->
 
 ⭐️ From [AcrackSoft](https://github.com/acrackes)
